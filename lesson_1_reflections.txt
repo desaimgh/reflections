@@ -1,0 +1,6 @@
+By knowing how it worked before the code change and after the differences made sense.
+I can see the whole history
+Auto saving is good when I forget to save for a long time.
+It is more realistic for coders
+Very helpful commands
+I would how to revert back.
